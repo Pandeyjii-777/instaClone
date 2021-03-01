@@ -1,2 +1,2 @@
-My Insta Website
+My Insta Website/
 
