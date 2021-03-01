@@ -1,1 +1,1 @@
-# insta/
+# myinsta.github.io
