@@ -1,4 +1,9 @@
 {
+  "homepage" : "https://{Pandeyjii-777}.github.io/{insta}"
+  #{Pandeyjii-777}- Pandeyjii-777
+  #{insta} - insta
+  
+  
   "name": "insta",
   "version": "0.1.0",
   "private": true,
